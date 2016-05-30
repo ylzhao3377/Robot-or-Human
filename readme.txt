@@ -1,4 +1,5 @@
 ## Feature generation
+Work Distribution: SVM-May, Random Forest-Erica, Adaboost-Yilin
 
 FeatureGenerator.py: Python file that generates the data set we used in our analysis and prediction.
 
